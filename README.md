@@ -20,9 +20,9 @@ Off-Topic Studies: `Principles of Marketing` `Engineering Circuit Analysis` `Ent
 
 [<img align="left" height="94px" width="94px" alt="RGD" src="https://jis.gov.jm/media/2020/06/rgd-logo.jpg"/>](https://www.rgd.gov.jm/)
 **Internal Website Developer** \
-[**Registrar Generals' Department**](https://www.rgd.gov.jm/)  • <i>2021</i>\
+[**Registrar Generals' Department**](https://www.rgd.gov.jm/)  • 2021\
 Tools: `SQL Server Managment System` `Visual Studio 2019` `ASP.Net` <br>
-Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&color=yellow) ![Static Badge](https://img.shields.io/badge/PHP-%23787CB5?style=flat-square&logo=php&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)
+Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&color=yellow) ![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/PHP-%23787CB5?style=flat-square&logo=php&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)
 
 
 
@@ -34,18 +34,18 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=
 #### Languages:
 <div align="center">
   
-  | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=c"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=html"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=python"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=react"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=java"/> |
-|---|:---:|---|---| ---
-| <p align="center">C</p> |  HTML | Python | React | <p align="center">Java</p>
+| <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=c"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=html"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=python"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=react"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=java"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=cs"/> |
+|---|:---:|---|---| --- | ---
+| <p align="center">C</p> |  HTML | Python | React | <p align="center">Java</p> | C#
 
 </div>
 
 #### Tools
 <div align="center">
   
-  | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=vscode"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=androidstudio"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=git"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=unity"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=eclipse"/> |
-|---|:---:|---|---| ---
-| <p align="center">VS Code</p> |  <p align="center">IntelliJ</p> | <p align="center">Git</p> | Unity | <p align="center">Eclipse</p>
+| <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=vscode"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=androidstudio"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=git"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=unity"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=eclipse"/>
+|---|:---:|---|:---:|---
+| <p align="center">VS Code</p> |  <p align="center">IntelliJ</p> | <p align="center">Git</p> | Unity | <p align="center">Eclipse</p> |
 
 </div>
 

@@ -34,22 +34,21 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?sty
 <div align="center">
 
   
-| <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=python"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=c"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=html"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=cs"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=java"/> 
-|---|---|---|---|---
-| <p align="center">python</p> | <p align="center">c</p> | <p align="center">html</p> | <p align="center">c#</p> | <p align="center">java</p> 
-
+| <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=python"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=java"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=c"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=cs"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=lua"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=html"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=css"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=javascript"/> 
+|---|---|---|---|---|---|---|---
+| <p align="center"> `Python` </p> | <p align="center"> `Java` </p> | <p align="center"> `C` </p> | <p align="center"> `C#` </p> | <p align="center"> `Lua` </p> | <p align="center"> `HTML` </p> | <p align="center"> `CSS` </p> | <p align="center"> `JS` </p> 
 
 </div>
-
-##
+<br>
 
 <h3 align="center"> 🛠️ Tools 🛠️ </h3>
 <div align="center">
 
 
-| <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=vscode"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=androidstudio"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=git"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=unity"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=eclipse"/>
-|---|:---:|---|:---:|---
-| <p align="center">VS Code</p> |  <p align="center">IntelliJ</p> | <p align="center">Git</p> | Unity | <p align="center">Eclipse</p> |
+| <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=vscode"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=idea"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=git"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=mysql"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=androidstudio"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=unity"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=notion"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=latex"/> 
+|---|---|---|---|---|---|---|---
+| <p align="center"> `VS Code` </p> | <p align="center"> `Idea` </p> | <p align="center"> `Git` </p> | <p align="center"> `MySQL` </p> | <p align="center"> `Studio` </p> | <p align="center"> `Unity` </p> | <p align="center"> `Notion` </p> | <p align="center"> `LaTeX` </p> 
+
 
 </div>
 
@@ -76,10 +75,26 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?sty
   <img align="center"src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="50"/></a>
 </p>
 
-<details>
-    <summary>&#9889 🕋 <b>GitHub Stats</b></summary><br/>
+<!--<details>
+    <summary>&#9889 🕋 <b>GitHub Stats</b></summary><br/>-->
 <!--
 [![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
 -->
-</details>
+<!--</details>
+-->
 
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Help Me Upgrade My Workspace! 💻⚡ </h2></summary>
+  </ul>
+</div>
+<p align='center'>
+  current:<br><br>
+  <img alt="os" src="https://img.shields.io/badge/Windows-ACER_Aspire_5-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="soc" src="https://img.shields.io/badge/AMD-Ryzen_5-0071C5?style=for-the-badge&logo=amd&logoColor=white" />
+  <img alt="ram" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img alt="graphics" src="https://img.shields.io/badge/Vega-8-76B900?style=for-the-badge&logo=vega&logoColor=white" />
+  <img alt="ssd" src="https://img.shields.io/badge/250%20GB%20SSD-grey?style=for-the-badge" />
+  <img alt="hdd" src="https://img.shields.io/badge/250%20GB%20HDD-grey?style=for-the-badge" />
+</p>

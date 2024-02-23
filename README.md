@@ -54,26 +54,6 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?sty
 
 ##
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-  
-<a href="https://www.linkedin.com/in/javon-peart-55980620b/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50"></a>
-
-<a href="https://stackoverflow.com/users/22449316/j-peart" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow" height="50" width="50"/></a>
-
-<a href="mailto:javonpeart@gmail.com" target="blank">
-  <img align="center"src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="50"/></a>
-</p>
 
 <!--<details>
     <summary>&#9889 🕋 <b>GitHub Stats</b></summary><br/>-->
@@ -97,4 +77,29 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?sty
   <img alt="graphics" src="https://img.shields.io/badge/Vega-8-76B900?style=for-the-badge&logo=vega&logoColor=white" />
   <img alt="ssd" src="https://img.shields.io/badge/250%20GB%20SSD-grey?style=for-the-badge" />
   <img alt="hdd" src="https://img.shields.io/badge/250%20GB%20HDD-grey?style=for-the-badge" />
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+  
+<a href="https://www.linkedin.com/in/javon-peart-55980620b/" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50"></a>
+
+<a href="https://stackoverflow.com/users/22449316/j-peart" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow" height="50" width="50"/></a>
+
+<a href="mailto:javonpeart@gmail.com" target="blank">
+  <img align="center"src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="50"/></a>
+
+<a href="https://www.buymeacoffee.com/javv" target="blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="100"/></a>
 </p>

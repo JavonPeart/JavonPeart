@@ -1,42 +1,42 @@
-<h5 align="center">🌐 Welcome | Bienvenido | Bienvenida | Bienvenue | 환영합니다 | Salve 🌐</h5>
+<!--- <h5 align="center">🌐 Welcome | Bienvenido | Bienvenue | 환영합니다 | Salve 🌐</h5> --->
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=20AEE6&center=true&random=true&width=435&lines=%F0%9F%8C%90+Welcome!+%F0%9F%8C%90;%F0%9F%8C%90+%C2%A1Bienvenido!+%F0%9F%8C%90;%F0%9F%8C%90+Bienvenue!+%F0%9F%8C%90;%F0%9F%8C%90+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!+%F0%9F%8C%90;%F0%9F%8C%90+Salve!+%F0%9F%8C%90" alt="Typing SVG" /></a>
+</p>
 
 ___
 > [!Important]
 > *Profile is under construction*
 ___
 
+<!-- Experience Information-->
 ### Academic Background:
-
 [<img align="left" height="94px" width="94px" alt="UWI Mona" src="https://upload.wikimedia.org/wikipedia/en/0/01/Coat_of_arms_of_the_University_of_the_West_Indies.png"/>](https://www.mona.uwi.edu/)
 **Bechelors' of Science in Computer Science** \
 [**University of the West Indies**](https://www.mona.uwi.edu/)  • In progress\
 Off-Topic Studies: `Principles of Marketing` `Engineering Circuit Analysis` `Entrepenuership` 
 `Intermediate Spanish` `Beginner's French` `Occupational Envirnoment Safety and Health`
-
 <br>
 
 ### Best Experience:
-
 [<img align="left" height="94px" width="94px" alt="RGD" src="https://jis.gov.jm/media/2020/06/rgd-logo.jpg"/>](https://www.rgd.gov.jm/)
 **Internal Website Developer** \
 [**Registrar Generals' Department**](https://www.rgd.gov.jm/)  • 2021\
 Tools: `SQL Server Managment System` `Visual Studio 2019` `ASP.Net` <br>
 Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&color=yellow) ![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/PHP-%23787CB5?style=flat-square&logo=php&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)
 
-
-
-
 <br>
 
+<!-- Tabulation of Knowledge-->
 <h2 align="center">Knowledge Base</h2>
 
 #### Languages:
 <div align="center">
   
-| <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=c"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=html"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=python"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=react"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=java"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=cs"/> |
-|---|:---:|---|---| --- | ---
-| <p align="center">C</p> |  HTML | Python | React | <p align="center">Java</p> | C#
+| <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=python"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=c"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=html"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=cs"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=java"/> 
+|---|---|---|---|---
+| <p align="center">python</p> | <p align="center">c</p> | <p align="center">html</p> | <p align="center">c#</p> | <p align="center">java</p> 
+
 
 </div>
 

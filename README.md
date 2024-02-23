@@ -23,15 +23,16 @@ Off-Topic Studies: `Principles of Marketing` `Engineering Circuit Analysis` `Ent
 **Internal Website Developer** \
 [**Registrar Generals' Department**](https://www.rgd.gov.jm/)  • 2021\
 Tools: `SQL Server Managment System` `Visual Studio 2019` `ASP.Net` <br>
-Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&color=yellow) ![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/PHP-%23787CB5?style=flat-square&logo=php&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)
+Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=yellow) ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)
 
 <br>
 
 <!-- Tabulation of Knowledge-->
 <h2 align="center">Knowledge Base</h2>
 
-#### Languages:
+<h3 align="center"> 🧠 Languages 🧠 </h3>
 <div align="center">
+
   
 | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=python"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=c"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=html"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=cs"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=java"/> 
 |---|---|---|---|---
@@ -40,15 +41,19 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=
 
 </div>
 
-#### Tools
+##
+
+<h3 align="center"> 🛠️ Tools 🛠️ </h3>
 <div align="center">
-  
+
+
 | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=vscode"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=androidstudio"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=git"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=unity"/> | <img align="center" height="48px" width="48px" src="https://skillicons.dev/icons?i=eclipse"/>
 |---|:---:|---|:---:|---
 | <p align="center">VS Code</p> |  <p align="center">IntelliJ</p> | <p align="center">Git</p> | Unity | <p align="center">Eclipse</p> |
 
 </div>
 
+##
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -70,4 +75,11 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=
 <a href="mailto:javonpeart@gmail.com" target="blank">
   <img align="center"src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="50"/></a>
 </p>
+
+<details>
+    <summary>&#9889 🕋 <b>GitHub Stats</b></summary><br/>
+<!--
+[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
+-->
+</details>
 

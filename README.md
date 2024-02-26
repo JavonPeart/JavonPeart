@@ -99,7 +99,9 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?sty
 
 <a href="mailto:javonpeart@gmail.com" target="blank">
   <img align="center"src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="50"/></a>
+</p>
 
+<p align="center">
 <a href="https://www.buymeacoffee.com/javv" target="blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="100"/></a>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50"/></a>
 </p>

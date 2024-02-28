@@ -14,14 +14,16 @@ Have a look around, you might find something interesting ;)
 <br><br>
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+***
+<br>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Knowledge Base</h2></summary>
-    ---
+    <summary><h2 style="display: inline-block">🧠 Knowledge Database 🧠</h2></summary>
   </ul>
 </div>
+<br>
 <h3 align="center"> 
-  🧠 Languages 🧠 
+  - Languages -
 </h3>
 <div align="center">
   
@@ -35,7 +37,7 @@ Have a look around, you might find something interesting ;)
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align="center"> 
-  🛠️ Tools 🛠️ 
+ - Tools -
 </h3>
 <div align="center">
 
@@ -45,26 +47,28 @@ Have a look around, you might find something interesting ;)
 
 </div>
 
+<br> 
+
 ***
 
-<br>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+<br>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Experience</h2></summary>
-    ---
+    <summary><h2 style="display: inline-block">👨🏻‍💻 Experience 👨🏻‍💻</h2></summary>
   </ul>
 </div>
+<br>
 <h3> 
-  📔 Academic Background 📔 
+ - Academic Background -
 </h3>
 
 
 [<img align="left" height="94px" width="94px" alt="UWI Mona" src="https://upload.wikimedia.org/wikipedia/en/0/01/Coat_of_arms_of_the_University_of_the_West_Indies.png"/>](https://www.mona.uwi.edu/)
 **Bechelors' of Science in Computer Science** \
-[**University of the West Indies**](https://www.mona.uwi.edu/)  • 2024\
+[**University of the West Indies**](https://www.mona.uwi.edu/)  • 2020 - 2023\
 Off-Topic Studies: `Principles of Marketing` `Engineering Circuit Analysis` `Entrepenuership` 
 `Intermediate Spanish` `Beginner's French` `Occupational Envirnoment Safety and Health`
 
@@ -72,7 +76,7 @@ Off-Topic Studies: `Principles of Marketing` `Engineering Circuit Analysis` `Ent
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <h3> 
-  🏢 Internship 🏢 
+ - Internship -
 </h3>
 
 [<img align="left" height="94px" width="94px" alt="RGD" src="https://jis.gov.jm/media/2020/06/rgd-logo.jpg"/>](https://www.rgd.gov.jm/)
@@ -81,11 +85,11 @@ Off-Topic Studies: `Principles of Marketing` `Engineering Circuit Analysis` `Ent
 Tools: `SQL Server Managment System` `Visual Studio 2019` `ASP.Net` <br>
 Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=yellow) ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)
 
+<br> 
+
 ***
 
 <br>
-
-
 
 
 <div id="user-content-toc">
@@ -101,6 +105,12 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?sty
   <img alt="ssd" src="https://img.shields.io/badge/250%20GB%20SSD-grey?style=for-the-badge" />
   <img alt="hdd" src="https://img.shields.io/badge/250%20GB%20HDD-grey?style=for-the-badge" />
 </p>
+
+<br>
+
+***
+
+<br>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -129,10 +139,9 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?sty
 <a href="https://www.buymeacoffee.com/javv" target="blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50"/></a>
 </p>
+<br> 
 
-___
-
-___
+***
 <!---
 ### Potential
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>

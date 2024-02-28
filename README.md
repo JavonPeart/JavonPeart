@@ -68,7 +68,7 @@ Have a look around, you might find something interesting ;)
 
 [<img align="left" height="94px" width="94px" alt="UWI Mona" src="https://upload.wikimedia.org/wikipedia/en/0/01/Coat_of_arms_of_the_University_of_the_West_Indies.png"/>](https://www.mona.uwi.edu/)
 **Bechelors' of Science in Computer Science** \
-[**University of the West Indies**](https://www.mona.uwi.edu/)  • S.U.C.H.\
+[**University of the West Indies**](https://www.mona.uwi.edu/)  • 2nd U.C. Honors\
 Off-Topic Studies: `Principles of Marketing` `Engineering Circuit Analysis` `Entrepenuership` 
 `Intermediate Spanish` `Beginner's French` `Occupational Envirnoment Safety and Health`
 

@@ -18,7 +18,7 @@ Have a look around, you might find something interesting ;)
 <br>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">🧠 Knowledge Database 🧠</h2></summary>
+    <summary><h1 style="display: inline-block">🧠 Knowledge Database 🧠</h1></summary>
   </ul>
 </div>
 <br>
@@ -57,7 +57,7 @@ Have a look around, you might find something interesting ;)
 <br>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">👨🏻‍💻 Experience 👨🏻‍💻</h2></summary>
+    <summary><h1 style="display: inline-block">👨🏻‍💻 Experience 👨🏻‍💻</h1></summary>
   </ul>
 </div>
 <br>
@@ -94,7 +94,7 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?sty
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Checkout My Workspace!</h2></summary>
+    <summary><h1 style="display: inline-block">Checkout My Workspace!</h1></summary>
   </ul>
 </div>
 <p align='center'>
@@ -114,7 +114,7 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?sty
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h1 style="display: inline-block">Connect With Me🤝</h1></summary>
   </ul>
 </div>
 
@@ -131,9 +131,10 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?sty
 </p>
 
 <br>
+
 <p align="center">
-💻 Wanna help me upgrade? 💻
-</center>
+  💻 Wanna help me upgrade? 💻
+</p>
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/javv" target="blank">

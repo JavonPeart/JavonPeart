@@ -138,8 +138,9 @@ Languages: ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?sty
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/javv" target="blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50"/></a>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50"/></a> <a href="https://paypal.me/vonpeart?country.x=IN&locale.x=en_GB" target="_blank"><img src="https://user-images.githubusercontent.com/42001064/196043185-ebd61195-44ee-480f-9b76-f5eb7cfcaf55.png" alt="Paypal" width="180" ></a>
 </p>
+
 <br> 
 
 <!---
